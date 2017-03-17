@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: M2MTest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: upandey15
+Implementation-Vendor-Id: com.m2m
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/datam2m/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
